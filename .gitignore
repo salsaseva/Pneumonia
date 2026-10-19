@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Dataset (raw images ~2.3GB)
+chest_xray/
+
+# OS / Editor specific
+.DS_Store
+.idea/
+.vscode/
+*.swp
